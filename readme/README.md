@@ -1,10 +1,10 @@
 
-# test
+# README Generator
   
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
+![License](https://img.shields.io/badge/License-GNU-brightgreen)
 
 ## Description
-test
+This project helps create READMEs.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,24 +16,24 @@ test
 
 <a name="installation"></a>
 ## Installation
-test
+use npm and inquire
 
 
 <a name="usage"></a>
 ## Usage
-test
+to create READMEs
 ## License 
-This project was developed under the MIT license.
-[More information about MIT](https://opensource.org/licenses/MIT)
+This project was developed under the GNU license.
+[More information about GNU](https://opensource.org/licenses/GNU)
 
 <a name="contributions"></a>
 ## Contributions
-test
+email me.
 
 <a name="questions"></a>
 ## Questions
-You may direct any questions about the project to [joshlyons225](https://github.com/joshlyons225), via email: [joshlyons@testemail](mailto:joshlyons@testemail).
+For any questions regardign this project, please contact me at: [joshlyons225](https://github.com/joshlyons225), via email: [joshlyons@testemail](mailto:joshlyons@testemail).
 
 <a name="testing"></a>
 ## Testing
-test
+test all you want.

@@ -47,6 +47,7 @@ This app was created using Node, NPM, and Inquire.
 
 <a name="walkthrough"></a>
 ## Walkthrough Video
+https://drive.google.com/file/d/1sWE67AHN0XNGBpqYA3XaV4jqFMGCoKlT/view
 
 <a name="screenshots"></a>
 ## Screenshots
